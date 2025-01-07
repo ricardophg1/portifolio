@@ -4,7 +4,7 @@
 
 ## 🚀 Cloud Architect | Data Cloud Engineer | DevOps Specialist
 
-With over 15 years of experience in technology, I specialize in designing and implementing scalable cloud solutions, data architectures, and DevOps practices. Currently based in Curitiba, Brazil.
+With over 15 years of experience in technology, I specialize in designing and implementing scalable cloud solutions, data architectures, and DevOps practices. Currently based in Brazil.
 
 ### 🛠️ Tech Stack
 
