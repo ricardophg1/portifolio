@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardoferreiradossantos/)](https://www.linkedin.com/in/ricardoferreiradossantos/)
 
-## 🚀 Cloud Architect | Data Cloud Engineer | DevOps Specialist
+## 🚀 Cloud Architect Specialist | Data Cloud Engineer Specialist | DevOps Specialist
 
 With over 15 years of experience in technology, I specialize in designing and implementing scalable cloud solutions, data architectures, and DevOps practices. Currently based in Brazil.
 

@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ricardo Ferreira dos Santos
 
-## 🚀 Master Software Engineer | Digital Marketing & Big Data Specialist
+## 🚀 Cloud Architect Specialist | Data Cloud Engineer Specialist | DevOps Specialist
 
-Specialized in Data (Science, Analytics, Engineering, BI) with over 15 years of experience in technology. I combine deep technical expertise in software engineering with advanced knowledge in digital marketing and big data strategies to deliver comprehensive solutions.
+With over 15 years of experience in technology, I specialize in designing and implementing scalable cloud solutions, data architectures, and DevOps practices. Currently based in Brazil.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardophg-santos/)](https://www.linkedin.com/in/ricardophg-santos/)
 
